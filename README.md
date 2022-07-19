@@ -9,11 +9,11 @@ RESULTS:
 
 ![image](https://user-images.githubusercontent.com/105184244/179712475-5a23874c-2b2b-4afa-b14d-7fab7e78ea7f.png)
 
-The line graph does a good job of showing exactly where the market is for PyBer, with Urban cities being their core market, followed by Suburban cities and next to nobody in rural locations
+The line graph does a good job of showing exactly where the market is for PyBer, with Urban cities being their core market, followed by Suburban cities and next to nobody in rural locations.
 
 ![image](https://user-images.githubusercontent.com/105184244/179714284-26ccaea3-ba15-45e2-a45c-903472a3a33c.png)
 
-The new DataFrame does a similar job, this time by showing the weekly cashflow for each city type  
+The new DataFrame does a similar job, this time by showing the weekly cashflow for each city type.  
 
 ---
 
